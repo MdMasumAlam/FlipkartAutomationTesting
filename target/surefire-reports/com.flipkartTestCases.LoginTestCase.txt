@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.flipkartTestCases.LoginTestCase
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 50.352 sec - in com.flipkartTestCases.LoginTestCase

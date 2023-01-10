@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-10T10:29:46 IST" name="Surefire suite" finished-at="2023-01-10T10:30:33 IST" duration-ms="46880">
+    <groups>
+    </groups>
+    <test started-at="2023-01-10T10:29:46 IST" name="Surefire test" finished-at="2023-01-10T10:30:33 IST" duration-ms="46880">
+      <class name="com.flipkartTestCases.LoginTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.flipkartTestCases.LoginTestCase@1ebd319f]" started-at="2023-01-10T10:29:44 IST" name="setup" finished-at="2023-01-10T10:29:46 IST" duration-ms="2311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCase01()[pri:0, instance:com.flipkartTestCases.LoginTestCase@1ebd319f]" started-at="2023-01-10T10:29:47 IST" name="testCase01" finished-at="2023-01-10T10:30:33 IST" duration-ms="46577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase01 -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.flipkartTestCases.LoginTestCase@1ebd319f]" started-at="2023-01-10T10:29:47 IST" name="beforeMethod" finished-at="2023-01-10T10:29:47 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.flipkartTestCases.LoginTestCase.testCase01() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.flipkartTestCases.LoginTestCase@1ebd319f]" started-at="2023-01-10T10:30:33 IST" name="afterMethod" finished-at="2023-01-10T10:30:33 IST" duration-ms="282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCase01 status=SUCCESS method=LoginTestCase.testCase01()[pri:0, instance:com.flipkartTestCases.LoginTestCase@1ebd319f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.flipkartTestCases.LoginTestCase@1ebd319f]" started-at="2023-01-10T10:30:33 IST" name="teardown" finished-at="2023-01-10T10:30:34 IST" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.flipkartTestCases.LoginTestCase -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

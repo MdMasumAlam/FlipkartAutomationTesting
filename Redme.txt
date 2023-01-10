@@ -1,0 +1,25 @@
+1.This Project Has 17 Test Cases
+2.Reading Test Data From Excel File (Failed)
+3.Screenshort Implimented
+4.Extent Report Implimented
+5.Logs Implimented
+6.All the dependency are implimented in POM
+7.This Project supports Headless mode
+8.This Project run by maven test
+9This Project run  by Cmd (rum.bat file)
+10.TestNg Xml file Present 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Md Masum Alam

@@ -1,0 +1,9 @@
+com\flipkart\utilities\ReadXLData.class
+com\flipkart\pages\FlipkartBecomeASeller.class
+com\flipkart\pages\LoginPage.class
+com\flipkart\utilities\Screenshot.class
+com\flipkart\pages\FlipkartHomePage.class
+com\flipkart\pages\FlipkartBasePage.class
+com\flipkart\utilities\ReadingPropertiesFile.class
+com\flipkart\pages\FlipkartTravel.class
+com\flipkart\utilities\ExtentManager.class
